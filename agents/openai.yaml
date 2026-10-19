@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文故事"
+  short_description: "先让真实问题成立，再用统一术语串起 insight、方法与证据，留下核心记忆点"
+  default_prompt: "使用 $paper-storytelling 梳理这篇论文的真实问题、核心矛盾与 insight，用统一术语贯穿方法和证据，让读者读完能复述核心认识。"
